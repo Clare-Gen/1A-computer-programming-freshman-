@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my programming portfolio
 
 You can use the [editor on GitHub](https://github.com/Clare-Gen/1A-computer-programming-freshman-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
