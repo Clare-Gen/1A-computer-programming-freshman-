@@ -1,5 +1,7 @@
 ## Welcome to my programming portfolio
 
+![typing test](https://github.com/Clare-Gen/1A-computer-programming-freshman-/blob/gh-pages/images/Screen%20Shot%202020-08-26%20at%208.01.05%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Clare-Gen/1A-computer-programming-freshman-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
